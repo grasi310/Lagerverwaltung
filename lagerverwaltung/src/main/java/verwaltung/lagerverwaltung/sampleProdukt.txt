@@ -1,0 +1,1 @@
+apfel obst 001 birne obst 002 fleisch 010 hackfleisch fleisch 009
